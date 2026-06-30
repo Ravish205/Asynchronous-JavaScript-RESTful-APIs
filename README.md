@@ -1,2 +1,6 @@
 # Asynchronous-JavaScript-RESTful-APIs
-A collection of projects and exercises demonstrating modern Asynchronous JavaScript concepts (Callbacks, Promises, Async/Await) alongside building and consuming RESTful APIs using Fetch and Axios.
+Asynchronous JavaScript: Deep dive into non-blocking code execution, handling asynchronous operations smoothly using Promises and async/await syntax, and managing event loops.
+
+RESTful APIs: Understanding architectural styles, working with HTTP methods (GET, POST, PUT, DELETE), handling status codes, and parsing JSON data.
+
+Data Fetching: Real-world implementations of data retrieval and manipulation using the native Fetch API and Axios.
